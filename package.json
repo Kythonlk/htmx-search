@@ -1,0 +1,24 @@
+{
+  "name": "htmx-search",
+  "version": "1.0.0",
+  "description": "Htmx and Express search bar",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Kythonlk/htmx-search.git"
+  },
+  "author": "Kythonlk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kythonlk/htmx-search/issues"
+  },
+  "homepage": "https://github.com/Kythonlk/htmx-search#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
